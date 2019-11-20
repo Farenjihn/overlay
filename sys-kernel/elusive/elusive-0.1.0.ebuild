@@ -7,7 +7,6 @@ bitflags-1.2.1
 c2-chacha-0.2.3
 cfg-if-0.1.10
 clap-2.33.0
-elusive-0.1.0
 fs_extra-1.1.0
 getrandom-0.1.13
 goblin-0.1.1
