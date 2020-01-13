@@ -11,7 +11,6 @@ cfg-if-0.1.10
 clap-2.33.0
 cpio-0.2.0
 crc32fast-1.2.0
-elusive-0.1.0
 env_logger-0.7.1
 flate2-1.0.13
 getrandom-0.1.14
