@@ -7,7 +7,6 @@ After=network.target local-fs.target
 ExecStartPre=-/sbin/modprobe overlay
 ExecStart=/usr/bin/containerd
 
-Type=notify
 Delegate=yes
 KillMode=process
 Restart=always
