@@ -49,7 +49,6 @@ src_compile() {
 }
 
 src_install() {
-	newinitd "${FILESDIR}"/${PN}.initd ${PN}
 	keepdir /var/lib/containerd
 	dobin bin/*
 
