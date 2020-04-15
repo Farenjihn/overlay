@@ -3,7 +3,7 @@
 
 <repositories version="1.0">
     <repo priority="50" quality="experimental" status="unofficial">
-        <name>farenjihn-overlay</name>
+        <name>farenjihn</name>
         <description>Personal Overlay</description>
         <homepage>https://github.com/Farenjihn/overlay</homepage>
         <source type="git">https://github.com/Farenjihn/overlay.git</source>
