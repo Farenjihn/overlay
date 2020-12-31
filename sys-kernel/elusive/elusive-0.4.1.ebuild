@@ -17,7 +17,7 @@ either-1.6.1
 env_logger-0.8.2
 flate2-1.0.19
 glob-0.3.0
-goblin-0.3.0
+goblin-0.2.3
 hermit-abi-0.1.17
 humantime-2.0.1
 itertools-0.9.0
